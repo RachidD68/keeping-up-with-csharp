@@ -9,12 +9,10 @@
 <p align="center"><em>Seventy-six features across ten themes — the vocabulary of modern .NET.</em></p>
 
 <p align="center">
-  <a href="https://github.com/RachidD68/keeping-up-with-csharp/releases/latest">📥 Download the latest release</a>
-  &nbsp;·&nbsp;
-  <a href="#"><!-- TODO: replace with real Leanpub URL -->Read on Leanpub (pay what you want)</a>
-  &nbsp;·&nbsp;
-  <a href="#"><!-- TODO: replace with real Payhip URL -->Buy on Payhip</a>
+  <strong>📖 <a href="#"><!-- TODO: replace with the real Leanpub URL -->Read on Leanpub (pay what you want)</a></strong>
 </p>
+
+<p align="center"><sub>The book itself is distributed exclusively through Leanpub. This repository hosts the companion code, errata, and reader feedback.</sub></p>
 
 ---
 
@@ -129,23 +127,24 @@ You need exactly two things:
 2. A code editor — Visual Studio 2026, JetBrains Rider, VS Code with
    the C# Dev Kit, or `dotnet run` from any terminal.
 
+## Errata & feedback
+
+Found a typo, an outdated API, a code sample that doesn't compile, or a
+factual mistake? Help make the next edition better:
+
+- 📋 [**Open an errata report**](https://github.com/RachidD68/keeping-up-with-csharp/issues/new?template=errata.yml) — guided form that asks for the page number, chapter, and what's wrong.
+- 🔍 [**Browse known errata**](https://github.com/RachidD68/keeping-up-with-csharp/issues?q=is%3Aissue+label%3Aerrata) — see what's already been reported before filing a duplicate.
+
+For general feedback, questions about the companion code, or suggestions, use
+[the Issues tab](https://github.com/RachidD68/keeping-up-with-csharp/issues)
+without the `errata` label.
+
 ## License
 
 - The **companion code** in this repository is released under the
   [MIT License](./LICENSE) — use it, fork it, build on it freely.
-- The **book** itself ships under the Community Edition terms: free,
-  pay-what-you-want. The full copyright page is inside the `.docx`.
-
-## About the author
-
-**Rachid Dahir** designs systems for the long haul. A software architect,
-technical author, and educator based in Morocco, he has spent over a decade
-building enterprise-grade .NET solutions in financial services, healthcare,
-and large-scale enterprise environments. His books are written for developers
-ready to move beyond tutorials.
-
-Published independently by Rachid Dahir under the **AviSoft Technical
-Publishing** imprint.
+- The **book** itself is distributed through Leanpub under Community Edition
+  terms. The full copyright page is inside the book.
 
 ---
 
