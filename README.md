@@ -126,7 +126,7 @@ The book targets **.NET 10 LTS** (supported until November 2028) and **C# 14**.
 You need exactly two things:
 
 1. The **.NET 10 SDK** — install from [dot.net](https://dot.net).
-2. A code editor — Visual Studio 2025, JetBrains Rider 2025.1+, VS Code with
+2. A code editor — Visual Studio 2026, JetBrains Rider, VS Code with
    the C# Dev Kit, or `dotnet run` from any terminal.
 
 ## License
