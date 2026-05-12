@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>Exercises.Ch11</AssemblyName>
+    <RootNamespace>KeepUpCs.Exercises.Ch11</RootNamespace>
+  </PropertyGroup>
+</Project>

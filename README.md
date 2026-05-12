@@ -78,6 +78,27 @@ along; pick the project the chapter you're reading is anchored in.
 | [TypeForge](./CodeSample/TypeForge)         | 4, 10          | Type-system playground — generic math with `INumber<T>`, Generic Math Pattern |
 | [PerfBench](./CodeSample/PerfBench)         | 6, 7, 10       | Benchmarking harness — `Span<T>`, `stackalloc`, BenchmarkDotNet, Zero-Allocation Pattern |
 
+## Exercise solutions (new in v1.1)
+
+The [`Exercises/`](./Exercises) folder is a separate Visual Studio solution
+containing the full answers to every Practice Exercise in the book — 22
+exercises across 11 chapters (Basic + Intermediate per chapter). One project
+per chapter, each runnable on its own:
+
+```bash
+cd Exercises
+dotnet build KeepUpCs.Exercises.sln
+
+# run any chapter's Basic + Intermediate demos
+dotnet run --project Exercises.Ch03
+dotnet run --project Exercises.Ch09
+```
+
+Each answer is also walked through in **Appendix C — Exercise Solutions**
+inside the book (v1.1+): the prompt, the answer code, an explanation of the
+approach, and a Going Deeper callout on the subtler features used. The book
+appendix and the Visual Studio solution mirror each other one-to-one.
+
 ## Sample snippet (front-cover code card)
 
 This is the snippet shown on the front cover — drawn verbatim from QuantLite's

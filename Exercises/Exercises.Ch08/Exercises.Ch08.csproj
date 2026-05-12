@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>Exercises.Ch08</AssemblyName>
+    <RootNamespace>KeepUpCs.Exercises.Ch08</RootNamespace>
+    <!-- [LibraryImport]'s generated marshalling emits unsafe code on .NET 10. -->
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+</Project>
