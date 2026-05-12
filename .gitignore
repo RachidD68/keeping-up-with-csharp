@@ -1,0 +1,41 @@
+# .NET build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.vcxproj.user
+.vscode/
+
+# OS noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Editor swap / temp
+*.swp
+*~
+*.tmp
+*.tmp.docx
+
+# Node / front-end (if any tools are added later)
+node_modules/
+
+# Book authoring artifacts (in case they ever land here accidentally)
+_work/
+_unpacked/
+_index_setup/
+_raw_merged.docx
+~$*.docx
+*.bak

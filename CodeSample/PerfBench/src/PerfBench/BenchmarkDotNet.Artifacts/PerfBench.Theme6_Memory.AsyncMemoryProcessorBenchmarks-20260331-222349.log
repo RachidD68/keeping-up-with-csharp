@@ -1,0 +1,37 @@
+// Validating benchmarks:
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=4, SensorBatchSize=10, PoolBufferSize=256, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=4, SensorBatchSize=10, PoolBufferSize=4096, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=4, SensorBatchSize=1000, PoolBufferSize=256, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=4, SensorBatchSize=1000, PoolBufferSize=4096, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=64, SensorBatchSize=10, PoolBufferSize=256, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=64, SensorBatchSize=10, PoolBufferSize=4096, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=64, SensorBatchSize=1000, PoolBufferSize=256, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=64, SensorBatchSize=1000, PoolBufferSize=4096, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=512, SensorBatchSize=10, PoolBufferSize=256, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=512, SensorBatchSize=10, PoolBufferSize=4096, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=512, SensorBatchSize=1000, PoolBufferSize=256, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
+// Benchmark AsyncMemoryProcessorBenchmarks.'Span<T> sync brightness': Job-ZBVMNX(IterationCount=10, LaunchCount=1, WarmupCount=5) [ImageWidth=512, SensorBatchSize=1000, PoolBufferSize=4096, AllocationIterations=1000]
+//    * ThreadingDiagnoser supports only .NET Core 3.0+
+
