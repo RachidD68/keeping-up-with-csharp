@@ -9,7 +9,7 @@
 <p align="center"><em>Seventy-six features across ten themes — the vocabulary of modern .NET.</em></p>
 
 <p align="center">
-  <strong>📖 <a href="#"><!-- TODO: replace with the real Leanpub URL -->Read on Leanpub (pay what you want)</a></strong>
+  <strong>📖 <a href="https://leanpub.com/keepingupwithc">Read on Leanpub (pay what you want)</a></strong>
 </p>
 
 <p align="center"><sub>The book itself is distributed exclusively through Leanpub. This repository hosts the companion code, errata, and reader feedback.</sub></p>
