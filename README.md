@@ -9,7 +9,7 @@
 <p align="center"><em>Seventy-six features across ten themes — the vocabulary of modern .NET.</em></p>
 
 <p align="center">
-  <strong>📖 <a href="https://leanpub.com/keepingupwithc">Read on Leanpub (pay what you want)</a></strong>
+  <strong>📖 <a href="https://leanpub.com/keepingupwithc">Get the book on Leanpub</a></strong>
 </p>
 
 <p align="center"><sub>The book itself is distributed exclusively through Leanpub. This repository hosts the companion code, errata, and reader feedback.</sub></p>
@@ -164,8 +164,8 @@ without the `errata` label.
 
 - The **companion code** in this repository is released under the
   [MIT License](./LICENSE) — use it, fork it, build on it freely.
-- The **book** itself is distributed through Leanpub under Community Edition
-  terms. The full copyright page is inside the book.
+- The **book** itself (First Edition) is available on Leanpub. The full
+  copyright page is inside the book.
 
 ---
 

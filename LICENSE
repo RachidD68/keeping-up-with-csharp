@@ -25,5 +25,4 @@ SOFTWARE.
 Note: this MIT License applies to the source code in this repository (the
 "companion code" - the contents of the CodeSample/ folder and any
 infrastructure files). The book "Keeping Up with C#" itself ships under
-separate Community Edition terms; the full copyright page is part of the
-book's .docx.
+its own separate terms; the full copyright page is part of the book.
